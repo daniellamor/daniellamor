@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👩‍💻 Daniella Morais Justino
 
-<!--
-**daniellamor/daniellamor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheira da Computação | Início de carreira em TI  
+Interesse em automação de processos, dados e desenvolvimento
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+- Python
+- SQL
+- Git & GitHub
+- Excel / Google Sheets
+- HTML & CSS (básico)
+
+---
+
+## 📂 Projetos
+Em construção 🚧
+
+---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/daniella-morais-b52955238/
+
