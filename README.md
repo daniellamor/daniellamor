@@ -6,9 +6,9 @@ Interesse em automação de processos, dados e desenvolvimento
 ---
 
 ## 🚀 Tecnologias
--JS
--C 
 - Python
+- JS
+- C
 - SQL
 - Git & GitHub
 - Excel / Google Sheets
