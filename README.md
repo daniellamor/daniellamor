@@ -12,7 +12,7 @@ Interesse em automação de processos, dados e desenvolvimento
 - SQL
 - Git & GitHub
 - Excel / Google Sheets
-- HTML & CSS (básico)
+- HTML & CSS 
 - PHP
 ### Frontend
 
